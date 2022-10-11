@@ -3,6 +3,7 @@
 [English](#English) | [日本語](#日本語)
 
 <img width="600" src="https://raw.githubusercontent.com/moku3u/Twitter-auto-tweet/main/raw/image/preview1.png">
+<img width="600" src="https://raw.githubusercontent.com/moku3u/Twitter-auto-tweet/main/raw/image/preview2.png">
 
 # 日本語
 
